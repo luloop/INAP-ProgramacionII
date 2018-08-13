@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\bin\Debug\HolaVS.exe.config
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\obj\Debug\HolaVS.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\bin\Debug\HolaVS.exe
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\bin\Debug\HolaVS.pdb
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\obj\Debug\HolaVS.exe
+C:\Users\Usuario\Desktop\INAP-ProgramacionII\Tarea1\HolaVS\HolaVS\obj\Debug\HolaVS.pdb
