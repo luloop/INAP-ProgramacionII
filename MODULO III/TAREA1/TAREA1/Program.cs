@@ -20,13 +20,13 @@ namespace TAREA1
                    
                 }
 
+            Console.WriteLine("------------------------------------");
+
             for (int i = arraySize-1; i >=0; i--)
             {
                 Console.Write("Ingreso el numero {0} en posicion {1}:\t \n", *(arrayheap + i), (i + 1));
             }
-
-
-
+            
 
 
         }
